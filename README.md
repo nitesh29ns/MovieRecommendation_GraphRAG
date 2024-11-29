@@ -1,4 +1,5 @@
 # MovieRecommendation_GraphRAG
 
 # Model Arcitechuture
-!https://github.com/nitesh29ns/MovieRecommendation_GraphRAG/blob/main/Model%20Architecture.jpg
+
+![Model Architecture](https://github.com/user-attachments/assets/d3cded9f-75c0-426a-8688-33ab0c1869ac)
